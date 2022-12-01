@@ -7,6 +7,6 @@
 * Jinjia Qian [[Github](https://github.com/vicqian0628)]
 * Alesandro Sottile [[Github](https://github.com/Sottix99)]
 # Repository:
-* `main.ipynb` contains the answer to the first two questions
+* `main.ipynb` contains the answer to the first two questions + the algorithmic one
 * `Commandline.sh` contains the answer to the command line question
-* `Algorithmic Question.ipynb` contains the answer to the algorithmic question
+
